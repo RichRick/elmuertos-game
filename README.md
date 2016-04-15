@@ -1,3 +1,3 @@
 # elmuertos-game
 
-the new game made by El Muerto which currently has no game
+the new game made by El Muerte which currently has no game
